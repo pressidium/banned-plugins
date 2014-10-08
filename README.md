@@ -1,0 +1,2 @@
+banned-plugins
+==============
