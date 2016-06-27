@@ -28,7 +28,7 @@ Nginx (nginx-helper/nginx-helper.php)
 Online Backup for WordPress (wponlinebackup/wponlinebackup.php)
 PressBackup (pressbackup/main.php)
 Quick Cache (quick-cache/quick-cache.php)
-RealtyPress Premium (realtypress-premium/realtypress.php)
+RealtyPress Premium (realtypress-premium/realtypress.php) *allowed only in combination with realtypress-s3-storage
 Simple Backup (simple-backup/simple-backup-plugin.php)
 Snapshot Backup (snapshot-backup/snapshot-backup.php)
 Total Backup (total-backup/total-backup.php)
