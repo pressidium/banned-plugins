@@ -32,6 +32,7 @@ RealtyPress Premium (realtypress-premium/realtypress.php)
     ***allowed only in combination with realtypress-s3-storage
 Simple Backup (simple-backup/simple-backup-plugin.php)
 Snapshot Backup (snapshot-backup/snapshot-backup.php)
+TooltipProEcommerce (TooltipProEcommerce/glossary.php)
 Total Backup (total-backup/total-backup.php)
 Varnish HTTP Purge (varnish-http-purge/varnish-http-purge.php)
 Varnish WordPress (varnish-wp/varnish-wordpress.php)
