@@ -21,6 +21,7 @@ Enforce Strong Password (enforce-strong-password/enforce-strong-password.php)
 FlexiCache (flexicache/FlexiCache.php)
 GZip Ninja Speed Compression (gzip-ninja-speed-sompression/gzip-ninja-speed.php)
 Hyper Cache (hyper-cache/plugin.php)
+iThemes Security Pro (ithemes-security-pro/ithemes-security-pro.php)
 Limit Login Attempts (limit-login-attempts/limit-login-attempts.php)
 Login LockDown (login-lockdown/loginlockdown.php)
 Multi-Varnish HTTP Purge (multi-varnish-http-purge/multi-varnish-http-purge.php)
@@ -57,5 +58,4 @@ WordPress Varnish as a Service (wordpress-varnish-as-a-service/wordpress-varnish
 Wordfence Security (wordfence/wordfence.php)
 XCloner - Backup and Restore (xcloner-backup-and-restore/xcloner.php)
 Zen Cache (zencache/zencache.php)
-iThemes Security Pro (ithemes-security-pro/ithemes-security-pro.php)
 ```
