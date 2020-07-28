@@ -5,6 +5,7 @@ Our banned plugin list in no particular order
 
 ```
 Adminer (adminer/adminer.php)
+All In One WP Security (all-in-one-wp-security-and-firewall/wp-security.php)
 BackUpWordPress (backupwordpress/backupwordpress.php)
 BackWPup (backwpup/backwpup.php)
 Batcache (batcache/batcache.php)
